@@ -38,7 +38,7 @@ http://ellaksocialcv-projects1.rhcloud.com/
 # ΠΑΡΑΔΟΤΕΑ
 
 | Παραδοτέο | Σύντομη περιγραφή | URL |
-| 1 | Αγορά υλικού |
+| 1 | Αγορά υλικού |  |
 | 2 | Οδηγίες (documentation): | |
 | 2 | εγκατάστασης προ εγκατάστασης των απαραίτητων λογισμικών και πακέτων στο virtual machine server (apache, php, mysql) | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Οδηγίες-εγκατάστασης |
 | 3 | Λογισμικό (source code): |  |
