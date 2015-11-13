@@ -40,8 +40,7 @@ http://ellaksocialcv-projects1.rhcloud.com/
 | Παραδοτέο | Σύντομη περιγραφή | URL |
 | ------------- |:-------------:| -----:|
 | 1 | Αγορά υλικού |  |
-| 2 | Οδηγίες (documentation): | |
-|  | εγκατάστασης προ εγκατάστασης των απαραίτητων λογισμικών και πακέτων στο virtual machine server (apache, php, mysql) | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Οδηγίες-εγκατάστασης |
+| 2 | Οδηγίες (documentation): εγκατάστασης προ εγκατάστασης των απαραίτητων λογισμικών και πακέτων στο virtual machine server (apache, php, mysql) | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Οδηγίες-εγκατάστασης |
 | 3 | Λογισμικό (source code): |  |
 |  | 1. Δημιουργία πηγαίου κώδικα όπου θα αναλαμβάνει το φόρτωμα δεδομένων από τα κοινωνικά δίκτυα |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/assets/js/app/cvbuilder.js |
 |  | 2. Δημιουργία διαδραστικής εφαρμογής κινητού τηλεφώνου όπου ο χρηστης θα κάνει εισαγωγή και επεξεργασία των δεδομένων |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/output/xml/1443118927Brachos.xml |
