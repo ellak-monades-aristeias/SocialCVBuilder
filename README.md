@@ -40,13 +40,13 @@ http://ellaksocialcv-projects1.rhcloud.com/
 | Παραδοτέο | Σύντομη περιγραφή | URL |
 | 1 | Αγορά υλικού |
 | 2 | Οδηγίες (documentation): | |
-|  | εγκατάστασης προ εγκατάστασης των απαραίτητων λογισμικών και πακέτων στο virtual machine server (apache, php, mysql) | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Οδηγίες-εγκατάστασης |
+| 2 | εγκατάστασης προ εγκατάστασης των απαραίτητων λογισμικών και πακέτων στο virtual machine server (apache, php, mysql) | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Οδηγίες-εγκατάστασης |
 | 3 | Λογισμικό (source code): |  |
-|  | 1. Δημιουργία πηγαίου κώδικα όπου θα αναλαμβάνει το φόρτωμα δεδομένων από τα κοινωνικά δίκτυα |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/assets/js/app/cvbuilder.js |
-|  | 2. Δημιουργία διαδραστικής εφαρμογής κινητού τηλεφώνου όπου ο χρηστης θα κάνει εισαγωγή και επεξεργασία των δεδομένων |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/output/xml/1443118927Brachos.xml |
-|  | 3. Δημιουργία πηγαίου κώδικα όπου θα αποθηκεύει τα αποθηκεύει τα δεδομένα σε μορφή βιογραφικού σημειώματος |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/cvxml.php |
-|  | 4. Δημιουργία πηγαίου κώδικα για αυτόματη επιλογή αποστολής του βιογραφικού σημειώματος σε διεύθυνση ηλεκτρονικού ταχυδρομείου |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/index.php |
-|  | Οδηγίες (documentation):  | 5. Αποθήκευση της εφαρμογής σε πακέτα εγκατάστασης για iPhone και Android συσκευές |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Building-The-App |
+| 3 | 1. Δημιουργία πηγαίου κώδικα όπου θα αναλαμβάνει το φόρτωμα δεδομένων από τα κοινωνικά δίκτυα |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/assets/js/app/cvbuilder.js |
+| 3 | 2. Δημιουργία διαδραστικής εφαρμογής κινητού τηλεφώνου όπου ο χρηστης θα κάνει εισαγωγή και επεξεργασία των δεδομένων |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/output/xml/1443118927Brachos.xml |
+| 3 | 3. Δημιουργία πηγαίου κώδικα όπου θα αποθηκεύει τα αποθηκεύει τα δεδομένα σε μορφή βιογραφικού σημειώματος |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/cvxml.php |
+| 3 | 4. Δημιουργία πηγαίου κώδικα για αυτόματη επιλογή αποστολής του βιογραφικού σημειώματος σε διεύθυνση ηλεκτρονικού ταχυδρομείου |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/index.php |
+| 3 | Οδηγίες (documentation):  5. Αποθήκευση της εφαρμογής σε πακέτα εγκατάστασης για iPhone και Android συσκευές |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Building-The-App |
 
 
 
