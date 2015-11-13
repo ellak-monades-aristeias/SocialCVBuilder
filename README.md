@@ -35,3 +35,38 @@ http://ellaksocialcv-projects1.rhcloud.com/
 [README_DEVELOPERS.md](README_DEVELOPERS.md)
 
 [README_USERS.md](README_USERS.md)
+# ΠΑΡΑΔΟΤΕΑ
+
+| Παραδοτέο        | Σύντομη περιγραφή           | URL  |
+| ------------- |:-------------:| -----:|
+| 1     | Αγορά υλικού | - |
+| 2      | centered      |   $12 |
+| 3 | are neat      |    $1 |
+
+
+
+
+
+1
+Αγορά υλικού
+
+
+2
+Οδηγίες (documentation):
+1. εγκατάστασης προ εγκατάστασης των απαραίτητων λογισμικών και πακέτων στο virtual machine server (apache, php, mysql)
+1. https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Οδηγίες-εγκατάστασης
+3
+Λογισμικό (source code):
+1. Δημιουργία πηγαίου κώδικα όπου θα αναλαμβάνει το φόρτωμα δεδομένων από τα κοινωνικά δίκτυα
+2. Δημιουργία διαδραστικής εφαρμογής κινητού τηλεφώνου όπου ο χρηστης θα κάνει εισαγωγή και επεξεργασία των δεδομένων
+3. Δημιουργία πηγαίου κώδικα όπου θα αποθηκεύει τα αποθηκεύει τα δεδομένα σε μορφή βιογραφικού σημειώματος
+4. Δημιουργία πηγαίου κώδικα για αυτόματη επιλογή αποστολής του βιογραφικού σημειώματος σε διεύθυνση ηλεκτρονικού ταχυδρομείου
+Οδηγίες (documentation):
+1. Αποθήκευση της εφαρμογής σε πακέτα εγκατάστασης για iPhone και Android συσκευές
+
+
+1. https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/assets/js/app/cvbuilder.js
+2. https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/output/xml/1443118927Brachos.xml
+3. https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/cvxml.php
+4. https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/index.php
+5. https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Building-The-App
