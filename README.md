@@ -32,8 +32,6 @@
 Η υπηρεσία βρίσκετε στην διεύθυνση: 
 http://ellaksocialcv-projects1.rhcloud.com/
 
-[README_USERS.md]
-
-[README_DEVELOPERS.md]
+[README_DEVELOPERS.md](README_DEVELOPERS.md)
 
 [README_USERS.md](README_USERS.md)
