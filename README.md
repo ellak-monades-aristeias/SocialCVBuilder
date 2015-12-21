@@ -53,9 +53,37 @@ http://ellaksocialcv-projects1.rhcloud.com/
 |  | Οδηγίες (documentation):  5. Αποθήκευση της εφαρμογής σε πακέτα εγκατάστασης για iPhone και Android συσκευές |  https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Building-The-App |
 
 
+DESCRIPTION IN ENGLISH
 
+Proposal Description
+Millions of users have their business data posted at various social networks like Facebook, Glassdoor, Linkedin, Google+, MSN and other. The proposed system enables the user to a central software locally installed, you may create a Europass-format CV (and other) by making use of existing data on the Internet.
 
+Conditions for use of the system:
+Internet access (for importing data from Conon networks).
+There is possibility of full use of the system without accessing the device online.
+Tablet device or smartphone type mobile phone.
+Optionally, there account in social networks (Example Linkedin).
+More detail:
+Local installation to avoid projection of personal data.
+Automatic data import from social networks: Linkedin, Facebook, Glassdoor, MSN, Google+, ACN, IEEE.
+Possibility of modification / addition / deletion of data.
+AutoFill areas through a database of words.
+File Storage in opensource formats
+CV Save the Europass format but also other types (Adecco, Manpower, Wipro, Monster and other) # Benefits to user:
+Simplify creating CV
+Create CV of many types from a central system
+Save the CV in various formats
+Protection of personal data using only local resources system
+Target - User Communities - Programmers (Developers)
+... here you describe your potential work of end-users and communities of users / developers who would be interested to extend your work. ...
 
+Joint addressed
+The system is designed for:
+In jobseekers
+In recruiting agencies
+In general, employers and companies from all sectors
+Global market (including the Greek)
+The service is located at: http://ellaksocialcv-projects1.rhcloud.com/
 
 
 
