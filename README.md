@@ -76,7 +76,6 @@ Create CV of many types from a central system
 Save the CV in various formats
 Protection of personal data using only local resources system
 Target - User Communities - Programmers (Developers)
-... here you describe your potential work of end-users and communities of users / developers who would be interested to extend your work. ...
 
 Joint addressed
 The system is designed for:
